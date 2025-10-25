@@ -14,3 +14,5 @@ percentage = total / 3
 print("")
 print("--- Result ---")
 print("Student Name:" , student_name)
+print("Total Marks:" , total)
+print("Percentage:" , percentage)
