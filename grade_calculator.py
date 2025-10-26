@@ -16,3 +16,8 @@ print("--- Result ---")
 print("Student Name:" , student_name)
 print("Total Marks:" , total)
 print("Percentage:" , percentage)
+
+if percentage >= 80:
+    grade = "A"
+elif percentage >= 60:
+    grade = "B"
