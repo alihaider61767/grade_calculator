@@ -21,3 +21,9 @@ if percentage >= 80:
     grade = "A"
 elif percentage >= 60:
     grade = "B"
+elif percentage >= 40:
+    grade = "C"    
+else:
+    grade = "Fail"
+
+print("Grade:" , grade)
