@@ -32,3 +32,6 @@ print("Grade:" , grade)
 
 print("=== Student Grade Calculator ===")
 print("")
+
+name = input("Enter student name: ")
+student_name = name.title()
