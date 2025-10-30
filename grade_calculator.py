@@ -35,3 +35,7 @@ print("")
 
 name = input("Enter student name: ")
 student_name = name.title()
+
+print("\nEnter marks out of 100 in each subject")
+
+english = int(input("English: "))
