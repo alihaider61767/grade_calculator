@@ -43,3 +43,6 @@ math = int(input("Math: "))
 science = int(input("Science: "))
 computer = int(input("Computer: "))
 urdu = int(input("Urdu: "))
+
+total = english + math +  science + computer + urdu
+percentage = total / 5 
