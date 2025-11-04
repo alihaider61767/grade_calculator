@@ -46,3 +46,6 @@ urdu = int(input("Urdu: "))
 
 total = english + math +  science + computer + urdu
 percentage = total / 5 
+
+print("\n--- Result ---")
+print("Student Name  :", student_name)
