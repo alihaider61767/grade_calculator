@@ -54,3 +54,5 @@ print("Percentage :", percentage)
 
 if percentage >= 85:
     grade = "A+"
+elif percentage >= 75:
+    grade = "A"
